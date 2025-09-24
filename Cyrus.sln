@@ -4,9 +4,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{95B00EAD-8B2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{3DDB4BDA-C74A-44D4-B63F-814B5DE4DE6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyrus.Core.Domain", "Src\Core\Cyrus.Core.Domain\Cyrus.Core.Domain.csproj", "{3806F8DD-A892-4ED3-8E89-3D74C7BA0FDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyrus.Core.Domain", "src\Core\Cyrus.Core.Domain\Cyrus.Core.Domain.csproj", "{3806F8DD-A892-4ED3-8E89-3D74C7BA0FDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyrus.Core.ApplicationService", "Src\Core\Cyrus.Core.ApplicationService\Cyrus.Core.ApplicationService.csproj", "{BD65F804-D034-413A-BA5E-66E1D3E8BCC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyrus.Core.ApplicationService", "src\Core\Cyrus.Core.ApplicationService\Cyrus.Core.ApplicationService.csproj", "{BD65F804-D034-413A-BA5E-66E1D3E8BCC5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyrus.Core.Contracts", "src\Core\Cyrus.Core.Contracts\Cyrus.Core.Contracts.csproj", "{2D113F70-4B98-4DEB-9477-D44432916BB6}"
 EndProject

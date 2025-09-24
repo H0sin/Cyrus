@@ -1,0 +1,12 @@
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/bin/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.deps.json
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/bin/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.dll
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/bin/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.pdb
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.AssemblyInfoInputs.cache
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.AssemblyInfo.cs
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.csproj.CoreCompileInputs.cache
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.sourcelink.json
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.dll
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/refint/Cyrus.Infrastructure.Data.Sql.Queries.dll
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/Cyrus.Infrastructure.Data.Sql.Queries.pdb
+/home/runner/work/Cyrus/Cyrus/src/Infrastructure/Cyrus.Infrastructure.Data.Sql.Queries/obj/Debug/net8.0/ref/Cyrus.Infrastructure.Data.Sql.Queries.dll
