@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.1.66" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.9" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Using Include="Microsoft.EntityFrameworkCore" />
+    </ItemGroup>
+    
+    <ItemGroup>
+      <ProjectReference Include="..\..\Core\Cyrus.Core.Contracts\Cyrus.Core.Contracts.csproj" />
+      <ProjectReference Include="..\..\Core\Cyrus.Core.Domain\Cyrus.Core.Domain.csproj" />
+      <ProjectReference Include="..\Cyrus.Infrastructure.Data.Sql\Cyrus.Infrastructure.Data.Sql.csproj" />
+    </ItemGroup>
+
+</Project>

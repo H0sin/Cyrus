@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <OutputType>Library</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\Core\Cyrus.Core.ApplicationService\Cyrus.Core.ApplicationService.csproj" />
+        <ProjectReference Include="..\..\Core\Cyrus.Core.Contracts\Cyrus.Core.Contracts.csproj" />
+        <ProjectReference Include="..\..\Core\Cyrus.Core.Domain.Toolkits\Cyrus.Core.Domain.Toolkits.csproj" />
+        <ProjectReference Include="..\..\Utilities\Cyrus.Utilities\Cyrus.Utilities.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="9.0.9" />
+      <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.1" />
+      <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="9.0.9" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+      <PackageReference Include="Scrutor" Version="6.1.0" />
+    </ItemGroup>
+    
+    <ItemGroup>
+        <Using Include="Microsoft.AspNetCore.Builder" />
+        <Using Include="Microsoft.AspNetCore.Hosting" />
+        <Using Include="Microsoft.Extensions.Configuration" />
+        <Using Include="Microsoft.Extensions.Hosting" />
+        <Using Include="Microsoft.Extensions.DependencyInjection" />
+        <Using Include="Microsoft.Extensions.Logging" />
+        <Using Include="Microsoft.Extensions.DependencyModel" />
+        <Using Include="System.Reflection" />
+    </ItemGroup>
+    
+</Project>
