@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vz/BrRVjil31IZcRTYc+yWWisxikd3ITeD0WxUk7H+UPZJzaBZHTXspjWpEnWc76Tc74wPMLWUJR0+RHyluMjw==",
+  "dgSpecHash": "G3IXb8qyrRI=",
   "success": true,
   "projectFilePath": "/home/runner/work/Cyrus/Cyrus/src/Plugins/Cyrus.Plugins.HelloWorld/Cyrus.Plugins.HelloWorld.csproj",
   "expectedPackageFiles": [
@@ -21,18 +21,19 @@
     "/home/runner/.nuget/packages/microsoft.extensions.primitives/9.0.9/microsoft.extensions.primitives.9.0.9.nupkg.sha512",
     "/home/runner/.nuget/packages/rbush/3.2.0/rbush.3.2.0.nupkg.sha512",
     "/home/runner/.nuget/packages/sixlabors.fonts/1.0.0/sixlabors.fonts.1.0.0.nupkg.sha512",
-    "/home/runner/.nuget/packages/system.diagnostics.diagnosticsource/9.0.9/system.diagnostics.diagnosticsource.9.0.9.nupkg.sha512",
     "/home/runner/.nuget/packages/system.io.packaging/8.0.0/system.io.packaging.8.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1603",
       "level": "Warning",
+      "message": "Cyrus.Utilities depends on ClosedXML (>= 0.103.0) but ClosedXML 0.103.0 was not found. ClosedXML 0.104.0 was resolved instead.",
+      "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Plugins/Cyrus.Plugins.HelloWorld/Cyrus.Plugins.HelloWorld.csproj",
       "warningLevel": 1,
-      "message": "Cyrus.Utilities depends on ClosedXML (>= 0.103.0) but ClosedXML 0.103.0 was not found. An approximate best match of ClosedXML 0.104.0 was resolved.",
+      "filePath": "/home/runner/work/Cyrus/Cyrus/src/Plugins/Cyrus.Plugins.HelloWorld/Cyrus.Plugins.HelloWorld.csproj",
       "libraryId": "ClosedXML",
       "targetGraphs": [
-        "net8.0"
+        "net9.0"
       ]
     }
   ]
