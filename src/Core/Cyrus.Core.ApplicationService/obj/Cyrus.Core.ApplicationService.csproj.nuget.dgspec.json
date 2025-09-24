@@ -1,0 +1,421 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.ApplicationService/Cyrus.Core.ApplicationService.csproj": {}
+  },
+  "projects": {
+    "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.ApplicationService/Cyrus.Core.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.ApplicationService/Cyrus.Core.ApplicationService.csproj",
+        "projectName": "Cyrus.Core.ApplicationService",
+        "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.ApplicationService/Cyrus.Core.ApplicationService.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.ApplicationService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/Cyrus.Core.Contracts.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/Cyrus.Core.Contracts.csproj"
+              },
+              "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain.Toolkits/Cyrus.Core.Domain.Toolkits.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain.Toolkits/Cyrus.Core.Domain.Toolkits.csproj"
+              },
+              "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/runner/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/Cyrus.Core.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/Cyrus.Core.Contracts.csproj",
+        "projectName": "Cyrus.Core.Contracts",
+        "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/Cyrus.Core.Contracts.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/Cyrus.Core.Domain.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/Cyrus.Core.Domain.csproj"
+              },
+              "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.RequestResponse/Cyrus.Core.RequestResponse.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.RequestResponse/Cyrus.Core.RequestResponse.csproj"
+              },
+              "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/runner/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain.Toolkits/Cyrus.Core.Domain.Toolkits.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain.Toolkits/Cyrus.Core.Domain.Toolkits.csproj",
+        "projectName": "Cyrus.Core.Domain.Toolkits",
+        "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain.Toolkits/Cyrus.Core.Domain.Toolkits.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain.Toolkits/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/Cyrus.Core.Domain.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/Cyrus.Core.Domain.csproj"
+              },
+              "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/runner/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/Cyrus.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/Cyrus.Core.Domain.csproj",
+        "projectName": "Cyrus.Core.Domain",
+        "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/Cyrus.Core.Domain.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/runner/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.RequestResponse/Cyrus.Core.RequestResponse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.RequestResponse/Cyrus.Core.RequestResponse.csproj",
+        "projectName": "Cyrus.Core.RequestResponse",
+        "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.RequestResponse/Cyrus.Core.RequestResponse.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.RequestResponse/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/runner/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj",
+        "projectName": "Cyrus.Utilities",
+        "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.103.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/runner/.dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

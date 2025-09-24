@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cyrus.Infrastructure.Data.Sql.Queries/1.0.0": {
+        "runtime": {
+          "Cyrus.Infrastructure.Data.Sql.Queries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cyrus.Infrastructure.Data.Sql.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

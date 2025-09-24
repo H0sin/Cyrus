@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Cyrus.EndPoints.Web.props" />
+</Project>

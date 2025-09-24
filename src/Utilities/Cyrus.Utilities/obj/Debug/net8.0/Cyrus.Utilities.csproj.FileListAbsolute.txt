@@ -1,0 +1,15 @@
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/bin/Debug/net8.0/Resources/Translators/en.json
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/bin/Debug/net8.0/Resources/Translators/fa.json
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/bin/Debug/net8.0/Cyrus.Utilities.deps.json
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/bin/Debug/net8.0/Cyrus.Utilities.dll
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/bin/Debug/net8.0/Cyrus.Utilities.pdb
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/Cyrus.Utilities.csproj.AssemblyReference.cache
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/Cyrus.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/Cyrus.Utilities.AssemblyInfoInputs.cache
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/Cyrus.Utilities.AssemblyInfo.cs
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/Cyrus.Utilities.csproj.CoreCompileInputs.cache
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/Cyrus.Utilities.sourcelink.json
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/Cyrus.Utilities.dll
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/refint/Cyrus.Utilities.dll
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/Cyrus.Utilities.pdb
+/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/obj/Debug/net8.0/ref/Cyrus.Utilities.dll

@@ -11,6 +11,7 @@
         <ProjectReference Include="..\..\Core\Cyrus.Core.ApplicationService\Cyrus.Core.ApplicationService.csproj" />
         <ProjectReference Include="..\..\Core\Cyrus.Core.Contracts\Cyrus.Core.Contracts.csproj" />
         <ProjectReference Include="..\..\Core\Cyrus.Core.Domain.Toolkits\Cyrus.Core.Domain.Toolkits.csproj" />
+        <ProjectReference Include="..\..\Core\Cyrus.Core.Plugins\Cyrus.Core.Plugins.csproj" />
         <ProjectReference Include="..\..\Utilities\Cyrus.Utilities\Cyrus.Utilities.csproj" />
     </ItemGroup>
 

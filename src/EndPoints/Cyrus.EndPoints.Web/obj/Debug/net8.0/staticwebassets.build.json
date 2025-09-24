@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xy2wKSbLxzA+DMr/58qmVo9KDw9R5eQ9nNkdBjR7iEU=",
+  "Source": "Cyrus.EndPoints.Web",
+  "BasePath": "_content/Cyrus.EndPoints.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

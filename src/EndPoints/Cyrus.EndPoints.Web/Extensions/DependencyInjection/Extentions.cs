@@ -10,7 +10,7 @@ public static class Extensions
     {
 
         var assemblies = GetAssemblies(assemblyNamesForSearch);
-        services.AddZaminApplicationServices(assemblies).AddZaminDataAccess(assemblies).AddCyrusUtilities();
+        services.AddZaminApplicationServices(assemblies).AddZaminDataAccess(assemblies).AddCyrusUtilities().AddCyrusPlugins();
         return services;
     }
     

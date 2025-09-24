@@ -1,0 +1,12 @@
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/bin/Debug/net8.0/Cyrus.Core.Domain.deps.json
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/bin/Debug/net8.0/Cyrus.Core.Domain.dll
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/bin/Debug/net8.0/Cyrus.Core.Domain.pdb
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/Cyrus.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/Cyrus.Core.Domain.AssemblyInfoInputs.cache
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/Cyrus.Core.Domain.AssemblyInfo.cs
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/Cyrus.Core.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/Cyrus.Core.Domain.sourcelink.json
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/Cyrus.Core.Domain.dll
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/refint/Cyrus.Core.Domain.dll
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/Cyrus.Core.Domain.pdb
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Domain/obj/Debug/net8.0/ref/Cyrus.Core.Domain.dll
