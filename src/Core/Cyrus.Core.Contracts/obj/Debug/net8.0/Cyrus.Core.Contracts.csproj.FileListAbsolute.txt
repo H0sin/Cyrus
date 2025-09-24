@@ -16,3 +16,7 @@
 /home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/obj/Debug/net8.0/refint/Cyrus.Core.Contracts.dll
 /home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/obj/Debug/net8.0/Cyrus.Core.Contracts.pdb
 /home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/obj/Debug/net8.0/ref/Cyrus.Core.Contracts.dll
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/bin/Debug/net8.0/Resources/Translators/en.json
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/bin/Debug/net8.0/Resources/Translators/fa.json
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/bin/Debug/net8.0/Cyrus.Utilities.dll
+/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.Contracts/bin/Debug/net8.0/Cyrus.Utilities.pdb

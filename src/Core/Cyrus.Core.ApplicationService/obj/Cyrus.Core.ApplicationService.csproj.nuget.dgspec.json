@@ -100,6 +100,9 @@
               },
               "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.RequestResponse/Cyrus.Core.RequestResponse.csproj": {
                 "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Core/Cyrus.Core.RequestResponse/Cyrus.Core.RequestResponse.csproj"
+              },
+              "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj": {
+                "projectPath": "/home/runner/work/Cyrus/Cyrus/src/Utilities/Cyrus.Utilities/Cyrus.Utilities.csproj"
               }
             }
           }
@@ -113,6 +116,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

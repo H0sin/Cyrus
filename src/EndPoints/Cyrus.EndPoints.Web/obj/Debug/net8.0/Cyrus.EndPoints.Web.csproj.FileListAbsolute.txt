@@ -92,7 +92,6 @@
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.CSharp.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Memory.dll
-/home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Binder.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.dll
@@ -103,17 +102,14 @@
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Xml.dll
-/home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.Abstractions.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Features.dll
-/home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
-/home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Http.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Core.dll
@@ -130,8 +126,6 @@
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.ObjectPool.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
-/home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.dll
-/home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.Primitives.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Extensions.WebEncoders.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.JSInterop.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/refs/Microsoft.Net.Http.Headers.dll
@@ -331,3 +325,5 @@
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/obj/Debug/net8.0/refint/Cyrus.EndPoints.Web.dll
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/obj/Debug/net8.0/Cyrus.EndPoints.Web.pdb
 /home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/obj/Debug/net8.0/ref/Cyrus.EndPoints.Web.dll
+/home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/Cyrus.Core.Plugins.dll
+/home/runner/work/Cyrus/Cyrus/src/EndPoints/Cyrus.EndPoints.Web/bin/Debug/net8.0/Cyrus.Core.Plugins.pdb

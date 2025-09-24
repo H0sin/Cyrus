@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cyrus.Core.Domain.Toolkits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4141a2a7e69db39082b207d98b47c4e0f0a5ef8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f43a3209b7332ecd19e216921618e02018129ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cyrus.Core.Domain.Toolkits")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cyrus.Core.Domain.Toolkits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

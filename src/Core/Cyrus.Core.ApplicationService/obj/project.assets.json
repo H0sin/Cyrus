@@ -212,7 +212,9 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Cyrus.Core.Domain": "1.0.0",
-          "Cyrus.Core.RequestResponse": "1.0.0"
+          "Cyrus.Core.RequestResponse": "1.0.0",
+          "Cyrus.Utilities": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.9"
         },
         "compile": {
           "bin/placeholder/Cyrus.Core.Contracts.dll": {}
